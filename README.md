@@ -64,47 +64,6 @@ I'm **Thiru Kumaran V**, a B.Tech CSE (AI & ML) student at
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 RAGCore AI Chatbot
-
-Built a **Retrieval-Augmented Generation (RAG) chatbot** capable
-of answering user queries using document-based knowledge retrieval
-and Generative AI models.
-
-**Technologies:** RAG | Generative AI | Python
-
----
-
-### 🌐 Network News Transfer Protocol (NNTP)
-
-Developed an NNTP-based application for communication and transfer
-of news articles between client and server systems over a network.
-
-**Technologies:** Socket Programming | Networking | Client-Server Architecture
-
----
-
-### 🤖 TRACE BOT
-
-Designed and built an **Arduino-based line-following robot**
-using IR sensors, an L298N motor driver, and control logic for
-real-time path detection and navigation.
-
-**Technologies:** Arduino | IR Sensors | L298N | Robotics
-
----
-
-### 🅿️ Intelligent Smart Parking System
-
-Designed an AI-based smart parking management system capable of
-detecting available parking slots in real time and guiding vehicles
-efficiently.
-
-**Technologies:** AI | Sensors | Monitoring | Smart Navigation
-
----
-
 ## 🎓 Education
 
 **B.Tech – Computer Science & Engineering (AI & ML)**
@@ -112,7 +71,6 @@ efficiently.
 Vellore Institute of Technology  
 2024 – Present | Chennai, India
 
-**CGPA: 7.98**
 
 ---
 
